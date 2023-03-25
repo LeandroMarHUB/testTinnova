@@ -15,7 +15,7 @@ Ponto a melhorar ou uma análise do projeto
 > ### Apesar de ser um desafio, a maneira que escolhi para automatizar, não é das melheres praticas.
 Pois, os campos não tinham ID. Isso fez com que a automação usasse o csselector ou xpath. E isso poderia "quebrar" facilmente a automação.
 
-Foi feita a escrita em BDD, gerando o Gherking em Cucumber.
+Foi feita a escrita em BDD, gerando o Gherkin em Cucumber.
 Automação em java. 
 
 
