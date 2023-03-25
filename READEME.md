@@ -1,16 +1,37 @@
-#Timnova teste 
+> # Tinnova teste 
 
 Projeto de teste automatizado, com SeleniumWebdriver + java 
 
-Foram elaborados 3 cenários 
-  1 - Cadastro de Usuário
-  2 - Edição de Usuário
-  3 - Deletar Usuario 
+> # Foram elaborados 3 cenários 
+
+ Funcionalidade   | Cadastrar Usuário
+--------- | ------
+Cadastro de usuário  | Ok
+Edição de Usuário| OK
+Deletar Usuário | OK
 
 Ponto a melhorar ou uma análise do projeto 
 
-1 Apesar de ser um desafio, a maneira que escolhi para automatizar, não é das melheros praticas.
-Pois os campos não tinham ID. Isso fez com que a automação usasse o csselector ou xpath. E isso poderia "quebrar" facilmente a automação.
+> ### Apesar de ser um desafio, a maneira que escolhi para automatizar, não é das melheres praticas.
+Pois, os campos não tinham ID. Isso fez com que a automação usasse o csselector ou xpath. E isso poderia "quebrar" facilmente a automação.
 
 Foi feita a escrita em BDD, gerando o Gherking em Cucumber.
 Automação em java. 
+
+
+> # Tecnologias
+  SeleniumWebDriver
+  
+  - Junit
+  
+  - Cucumber
+  
+  - Report Trivago
+  
+  - BDD
+  
+
+## Autor: Leandro Martins de Souza
+
+
+ 
