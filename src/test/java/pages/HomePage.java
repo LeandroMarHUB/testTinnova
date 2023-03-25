@@ -2,8 +2,9 @@ package pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import runner.RunCucumberTest;
 
-public class HomePage {
+public class HomePage extends RunCucumberTest {
     WebDriver driver;
 
     public HomePage(WebDriver driver) {
