@@ -18,7 +18,15 @@ Pois, os campos não tinham ID. Isso fez com que a automação usasse o csselect
 Foi feita a escrita em BDD, gerando o Gherkin em Cucumber.
 Automação em java. 
 
+
+
+> ## Como rodar o teste e gerar o gráfico ?
+Abra o Terminal no intellij, e cole este comando, dê ENTER
+### mvn test -Dtest=**/*RunCucumberTest cluecumber-report:reporting
+Ao termino do teste, clique na pasta Target, depois na sub-pasta Formatedreport, depois no icone Index.html
+
 ![TelaTeste](https://user-images.githubusercontent.com/79597874/227729137-5658579f-17ec-451b-84ce-6753446719e3.png)
+
 
 
 > # Tecnologias
